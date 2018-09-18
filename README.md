@@ -1,2 +1,2 @@
 # Game2D
-Some game
+Some game, connected with https://github.com/medmene/Server
